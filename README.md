@@ -1,5 +1,6 @@
 Colocando em prática alguns dos comandos ensinados nos cursos de SQL, ofertado pela Alura, disponibilizados para a TRilha de Dados do Programa Deselvolove. 
 No exercício em questão simulei uma turma de 5 crianças:
+ 
   Eduwardo Collin;
 
   Izabela Suani;
